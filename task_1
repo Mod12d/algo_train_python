@@ -4,5 +4,6 @@ def solution(n: int = 1000) -> int:
   eturn [e for e in range(3, n)])
 
 #assertio tuikasitai
+## test
 if __name__ == "__main__":
     print(solution(int(input().strip())))
